@@ -1,0 +1,9 @@
+target
+static
+.DS_Store
+io.log.*
+.env
+run
+node_modules
+tmp
+logs
