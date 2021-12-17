@@ -20,7 +20,7 @@ If you are building a React app with LDS, consider using the [React LDS base com
 
 ## Installation
 
-1. Create a `.env` file in the root directory of this project and add this content (make sure to replace the values):
+1. cp dot.env to `.env` file in the root directory of this project and add this content (make sure to replace the values):
 
    ```
    consumerKey='YOUR_CLIENT_KEY'
